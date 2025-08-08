@@ -1,0 +1,25 @@
+{
+  "name": "save2spine.online",
+  "version": "1.0.0",
+  "description": "descript",
+  "keywords": [
+    "save2spine",
+    "spine",
+    "animation"
+  ],
+  "homepage": "https://github.com/js2spine/save2spine.online#readme",
+  "bugs": {
+    "url": "https://github.com/js2spine/save2spine.online/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js2spine/save2spine.online.git"
+  },
+  "license": "ISC",
+  "author": "leopold",
+  "type": "commonjs",
+  "main": "index",
+  "scripts": {
+    "test": "test"
+  }
+}
